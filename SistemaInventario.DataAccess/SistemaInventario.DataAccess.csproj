@@ -18,8 +18,4 @@
     <ProjectReference Include="..\SistemaInventario.Utilities\SistemaInventario.Utilities.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Data\Migrations\" />
-  </ItemGroup>
-
 </Project>
